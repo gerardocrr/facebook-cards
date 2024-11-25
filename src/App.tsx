@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <div>
+      <div className="container">
         <h1>facebook cards</h1>
       </div>
     </>
